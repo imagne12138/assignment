@@ -1,1 +1,1 @@
-Python codeds for assignment 1. 
+Python codeds for assignments in ELEC 7023 A.
